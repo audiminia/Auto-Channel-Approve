@@ -30,5 +30,5 @@ pip install -r requirements.txt
   MONGO_URI=your mango db link
   ```
 
-### Developer
+### Created by
 - [AutoApprove Bot by Audi](https://github.com/audiminia/Auto-Channel-approve)
